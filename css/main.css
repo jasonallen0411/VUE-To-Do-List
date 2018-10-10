@@ -1,0 +1,51 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-image: url("http://www.anasfim.com/p/2018/04/yellow-lined-paper-by-andie200-on-deviantart-in-yellow-notebook-paper-background-600x600.png");
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+#header{
+	text-align: center;
+	font-size: 70px;
+	font-family: 'Copperplate';
+	color: red;
+	text-decoration: underline;
+}
+
+#theList{
+	list-style: none;
+	font-size: 35px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+#theInput{
+	margin: 0px auto;
+	width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*@media screen and (max-width: 955px){
+	
+}*/
+
+
+
+
+/*-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;*/
+
